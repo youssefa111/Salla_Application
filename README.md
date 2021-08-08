@@ -1,16 +1,27 @@
-# shop_application
+# News_Application_Flutter
 
-A new Flutter project.
+News Application to know News from differents Fields and search about news.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Technologies
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter to make Cross-platform application for all users ( ios - android )
+- Bloc ( State Managment )
+- News Api
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Properties of Application
+
+- Simple $ Easy UI
+- Light & Dark Mode
+- News in many fields
+- search for News
+
+
+
+# Screenshots
+
+<img src = "__Screenshots/1.png" height="400" width="200">  <img src = "__Screenshots/2.png" height="400" width="200">  <img src = "__Screenshots/3.png" height="400" width="200"> 
+
+
+<img src = "__Screenshots/4.png" height="400" width="200">  <img src = "__Screenshots/5.png" height="400" width="200">  <img src = "__Screenshots/6.png" height="400" width="200">
