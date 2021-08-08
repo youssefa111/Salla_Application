@@ -21,11 +21,11 @@ Salla Application is app for shopping  from internet with different categroies o
 
 # Screenshots
 
-<img src = "Screenshots/1.png" height="400" width="200">  <img src = "Screenshots/2.png" height="400" width="200">  <img src = "Screenshots/3.png" height="400" width="200"> 
+<img src = "screenshots/1.png" height="400" width="200">  <img src = "screenshots/2.png" height="400" width="200">  <img src = "screenshots/3.png" height="400" width="200"> 
 
 
-<img src = "Screenshots/4.png" height="400" width="200">  <img src = "Screenshots/5.png" height="400" width="200">  <img src = "Screenshots/6.png" height="400" width="200">
+<img src = "screenshots/4.png" height="400" width="200">  <img src = "screenshots/5.png" height="400" width="200">  <img src = "screenshots/6.png" height="400" width="200">
 
-<img src = "Screenshots/7.png" height="400" width="200">  <img src = "Screenshots/8.png" height="400" width="200">
+<img src = "screenshots/7.png" height="400" width="200">  <img src = "screenshots/8.png" height="400" width="200">
 
 
